@@ -6,7 +6,7 @@ class Solution:
         dura = 0
         lastTime = 0
         for i, t in enumerate(timeSeries):
-            if i < len(timeSeries)-1:
+            if i < len(timeSeries) - 1:
                 dura = timeSeries[i+1] - t
             else:
                 dura = duration
