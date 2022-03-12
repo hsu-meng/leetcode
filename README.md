@@ -27,4 +27,4 @@ Solutions of LeetCode Problems
 ## Math
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 771 | [Jewels and Stones](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
