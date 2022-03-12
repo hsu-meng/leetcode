@@ -4,10 +4,10 @@ Solutions of LeetCode Problems
 ## Array
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | `Hard` |
-| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | `Easy` |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/485_MaxConsecutiveOnes/maxConsecutive.py "link") | `Easy` |
-| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/495_TeemoAttacking/attacking.py "link") | `Easy` |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Hard |
+| 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/485_MaxConsecutiveOnes/maxConsecutive.py "link") | Easy |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/495_TeemoAttacking/attacking.py "link") | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/628_MaximumProductofThreeNumbers/maxProd.py "link") | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/645_SetMismatch/misMatch.py "link") | Easy |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/804_UniqueMorseCodeWords/morse.py "link") | Easy |
