@@ -22,4 +22,4 @@ Solutions of LeetCode Problems
 ## Hash Table
 | # | Question | Language| Difficulty |
 |:--:|:--|:--:|:--:|
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
