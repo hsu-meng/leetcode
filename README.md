@@ -35,3 +35,8 @@ Solutions of LeetCode Problems
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1281_SubtracttheProductandSumofDigitsofanInteger/multi-add_.py "link") | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1342_NumberofStepstoReduceaNumbertoZero/reduce2zero.py "link") | Easy |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1486_XOROperationinanArray/xor.py "link") | Easy |
+
+## Linked List
+| # | Question | Language | Difficulty |
+|:--:|:--|:--:|:--:|
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
