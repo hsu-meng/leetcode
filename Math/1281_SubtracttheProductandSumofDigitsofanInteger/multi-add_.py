@@ -1,3 +1,4 @@
+# Another rather simple approach would be to use the least-liner solution
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
         digits = [int(d) for d in str(n)]
