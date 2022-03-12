@@ -22,7 +22,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
-| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1221_SplitaStringinBalancedStrings/balancedStr.py "link") | Easy |
 
 ## Hash Table
 | # | Question | Language | Difficulty |
