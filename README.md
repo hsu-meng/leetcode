@@ -14,7 +14,7 @@ Solutions of LeetCode Problems
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1470_ShuffletheArray/shuffleArray.py "link") | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1480_RunningSumof1dArray/sumArray.py "link") | Easy |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1512_NumberofGoodPairs/goodPairs.py "link") | Easy |
-| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1512_NumberofGoodPairs/goodPairs.py "link") | Easy |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1528_ShuffleString/shuffleString.py "link") | Easy |
 
 ## String
 | # | Question | Language | Difficulty |
