@@ -24,6 +24,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/709_ToLowerCase/lowerCase.py "link") | Easy |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1221_SplitaStringinBalancedStrings/balancedStr.py "link") | Easy |
 
