@@ -11,7 +11,7 @@ Solutions of LeetCode Problems
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/645_SetMismatch/misMatch.py "link") | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1365_HowManyNumbersAreSmallerThantheCurrentNumber/smaller.py "link") | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1431_KidsWiththeGreatestNumberofCandies/candy.py "link") | Easy |
-| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1470_ShuffletheArray/shuffle.py "link") | Easy |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1470_ShuffletheArray/shuffleArray.py "link") | Easy |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1480_RunningSumof1dArray/sumArray.py "link") | Easy |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1512_NumberofGoodPairs/goodPairs.py "link") | Easy |
 
