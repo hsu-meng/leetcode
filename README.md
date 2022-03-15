@@ -50,3 +50,8 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
+
+## Concurrency
+| # | Question | Language | Difficulty |
+|:--:|:--|:--:|:--:|
+| 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Medium |
