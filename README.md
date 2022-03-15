@@ -54,4 +54,4 @@ Solutions of LeetCode Problems
 ## Concurrency
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Medium |
+| 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Concurrency/1115_PrintFooBarAlternately/footbar.py "link") | Medium |
