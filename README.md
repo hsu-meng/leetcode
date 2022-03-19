@@ -6,7 +6,7 @@ Solutions of LeetCode Problems
 |:--:|:--|:--:|:--:|
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/41_FirstMissingPositive/missing.py "link") | Hard |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/448_FindAllNumbersDisappearedinanArray/disappeared.py "link") | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/485_MaxConsecutiveOnes/maxConsecutive.py "link") | Easy |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/495_TeemoAttacking/attacking.py "link") | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/628_MaximumProductofThreeNumbers/maxProd.py "link") | Easy |
