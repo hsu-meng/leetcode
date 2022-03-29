@@ -16,7 +16,7 @@ Solutions of LeetCode Problems
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/628_MaximumProductofThreeNumbers/maxProd.py "link") | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/645_SetMismatch/misMatch.py "link") | Easy |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/697_DegreeofanArray/degreeArr.py "link") | Easy |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/697_DegreeofanArray/degreeArr.py "link") | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/697_DegreeofanArray/degreeArr.py "link") | Easy |
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/804_UniqueMorseCodeWords/morse.py "link") | Easy |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/852_PeakIndexinaMountainArray/peakMountain.py "link") | Easy |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/1014_BestSightseeingPair/bestPair.py "link") | Medium |
