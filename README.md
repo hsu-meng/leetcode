@@ -4,6 +4,7 @@ Solutions of LeetCode Problems
 ## Array
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/35_SearchInsertPosition/BSTinsert.c "link") | Easy |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/41_FirstMissingPositive/missing.py "link") | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/53_MaximumSubarray/maxSub.c "link") | Easy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
