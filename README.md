@@ -4,6 +4,7 @@ Solutions of LeetCode Problems
 ## Array
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/35_SearchInsertPosition/BSTinsert.c "link") | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/34_FindFirstandLastPositionofElementinSortedArray/FirstLast.cpp "link") | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/35_SearchInsertPosition/BSTinsert.c "link") | Easy |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/41_FirstMissingPositive/missing.py "link") | Hard |
