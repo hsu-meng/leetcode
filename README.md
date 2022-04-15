@@ -11,7 +11,7 @@ Solutions of LeetCode Problems
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/41_FirstMissingPositive/missing.py "link") | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/53_MaximumSubarray/maxSub.c "link") | Easy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/442_FindAllDuplicatesinanArray/duplicated.py "link") | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/448_FindAllNumbersDisappearedinanArray/disappeared.py "link") | Easy |
