@@ -60,6 +60,11 @@ Solutions of LeetCode Problems
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1342_NumberofStepstoReduceaNumbertoZero/reduce2zero.py "link") | Easy |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1486_XOROperationinanArray/xor.py "link") | Easy |
 
+## Two Pointers
+| # | Question | Language | Difficulty |
+|:--:|:--|:--:|:--:|
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
+
 ## Linked List
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
