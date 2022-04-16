@@ -63,7 +63,7 @@ Solutions of LeetCode Problems
 ## Two Pointers
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/844_BackspaceStringCompare/backspace.cpp "link") | Easy |
 
 ## Linked List
 | # | Question | Language | Difficulty |
