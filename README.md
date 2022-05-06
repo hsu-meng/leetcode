@@ -10,7 +10,7 @@ Solutions of LeetCode Problems
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/35_SearchInsertPosition/BSTinsert.c "link") | Easy |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/41_FirstMissingPositive/missing.py "link") | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/53_MaximumSubarray/maxSub.c "link") | Easy |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/209_MinimumSizeSubarraySum/minSubSum.c "link") | Medium |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
