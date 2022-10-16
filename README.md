@@ -51,7 +51,7 @@ Solutions of LeetCode Problems
 ## Hash Table
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/242_ValidAnagram/anagram.py "link") | Easy |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Hash%20Table/771_JewelsandStones/jewInston.py "link") | Easy |
 
 ## Math
