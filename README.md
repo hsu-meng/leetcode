@@ -13,7 +13,7 @@ Solutions of LeetCode Problems
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/209_MinimumSizeSubarraySum/minSubSum.c "link") | Medium |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/ "link") | [C++,Python](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/ "link") | [C++].[Python](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/414_ThirdMaximumNumber/maxNum.py "link") | Easy |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/442_FindAllDuplicatesinanArray/duplicated.py "link") | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/448_FindAllNumbersDisappearedinanArray/disappeared.py "link") | Easy |
