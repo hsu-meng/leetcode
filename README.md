@@ -4,7 +4,7 @@ Solutions of LeetCode Problems
 ## Array
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/26_RemoveDuplicatesfromSortedArray/RemovDup.cpp "link") | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/20_ValidParentheses/validParen.cpp "link") | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/26_RemoveDuplicatesfromSortedArray/RemovDup.cpp "link") | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/27_RemoveElement/RemovEle.cpp "link") | Easy |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/34_FindFirstandLastPositionofElementinSortedArray/FirstLast.cpp "link") | Medium |
