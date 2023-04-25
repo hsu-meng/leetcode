@@ -13,6 +13,7 @@ Solutions of LeetCode Problems
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/53_MaximumSubarray/maxSub.c "link") | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/94_BinaryTreeInorderTraversal/inorder.cpp "link") | Easy |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/209_MinimumSizeSubarraySum/minSubSum.c "link") | Medium |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/225_ImplementStackusingQueues/stack.cpp "link") | Easy |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/274_H-Index/H-Index.py "link") | Medium |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/283_MoveZeroes/MovZero.cpp "link") | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/349_IntersectionofTwoArrays/insect2arr.cpp "link"), [Python](https://github.com/hsu-meng/leetcode/blob/main/Array/349_IntersectionofTwoArrays/insect2arr.py "link") | Easy |
@@ -76,6 +77,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/94_BinaryTreeInorderTraversal/inorder.cpp "link") | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/225_ImplementStackusingQueues/stack.cpp "link") | Easy |
 
 ## Linked List
 | # | Question | Language | Difficulty |
