@@ -72,6 +72,11 @@ Solutions of LeetCode Problems
 |:--:|:--|:--:|:--:|
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/844_BackspaceStringCompare/backspace.cpp "link") | Easy |
 
+## Stack
+| # | Question | Language | Difficulty |
+|:--:|:--|:--:|:--:|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/94_BinaryTreeInorderTraversal/inorder.cpp "link") | Easy |
+
 ## Linked List
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
