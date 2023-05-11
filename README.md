@@ -51,7 +51,7 @@ Solutions of LeetCode Problems
 ## String
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/647_PalindromicSubstrings/palindromic.cpp "link") | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "link") | [C++](https://github.com/hsu-meng/leetcode/tree/main/String/5_LongestPalindromicSubstring "link") | Medium |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/647_PalindromicSubstrings/palindromic.cpp "link") | Medium |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/709_ToLowerCase/lowerCase.py "link") | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1021_RemoveOutermostParentheses/remvOuterParen.py "link") | Easy |
