@@ -4,6 +4,7 @@ Solutions of LeetCode Problems
 ## Array
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/1_TwoSum/twoSum.cpp "link") | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/20_ValidParentheses/validParen.cpp "link") | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/26_RemoveDuplicatesfromSortedArray/RemovDup.cpp "link") | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/27_RemoveElement/RemovEle.cpp "link") | Easy |
