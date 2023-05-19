@@ -79,7 +79,7 @@ Solutions of LeetCode Problems
 ## Tree
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/844_BackspaceStringCompare/backspace.cpp "link") | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Tree/100_SameTree/sameTree.cpp "link") | Easy |
 
 ## Two Pointers
 | # | Question | Language | Difficulty |
