@@ -76,6 +76,11 @@ Solutions of LeetCode Problems
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1342_NumberofStepstoReduceaNumbertoZero/reduce2zero.py "link") | Easy |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1486_XOROperationinanArray/xor.py "link") | Easy |
 
+## Tree
+| # | Question | Language | Difficulty |
+|:--:|:--|:--:|:--:|
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/844_BackspaceStringCompare/backspace.cpp "link") | Easy |
+
 ## Two Pointers
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
