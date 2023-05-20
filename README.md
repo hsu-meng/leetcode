@@ -81,6 +81,7 @@ Solutions of LeetCode Problems
 |:--:|:--|:--:|:--:|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Tree/100_SameTree/sameTree.cpp "link") | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Tree/101_SymmetricTree/symTree.cpp "link") | Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Tree/101_SymmetricTree/symTree.cpp "link") | Easy |
 
 ## Two Pointers
 | # | Question | Language | Difficulty |
