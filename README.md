@@ -98,7 +98,7 @@ Solutions of LeetCode Problems
 ## Linked List
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/83_RemoveDuplicatesfromSortedList/removeDup.cpp "link") | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
 
 ## Concurrency
