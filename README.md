@@ -99,6 +99,7 @@ Solutions of LeetCode Problems
 ## Linked List
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/82_RemoveDuplicatesfromSortedListII/removDupLL.cpp "link") | Easy |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/82_RemoveDuplicatesfromSortedListII/removDupLL.cpp "link") | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/83_RemoveDuplicatesfromSortedList/removeDup.cpp "link") | Easy |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/1290_ConvertBinaryNumberinaLinkedListtoInteger/binary2int.py "link") | Easy |
