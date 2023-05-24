@@ -92,6 +92,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/94_BinaryTreeInorderTraversal/inorder.cpp "link") | Easy |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/155_MinStack/minStack.cpp "link") | Medium |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/225_ImplementStackusingQueues/stack.cpp "link") | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/232_ImplementQueueusingStacks/queue.cpp "link") | Easy |
 
