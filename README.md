@@ -16,6 +16,7 @@ Solutions of LeetCode Problems
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/54_SpiralMatrix/spiralMatrix.cpp "link") | Medium |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/59_SpiralMatrixII/spiralMatrixII.cpp "link") | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/94_BinaryTreeInorderTraversal/inorder.cpp "link") | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/209_MinimumSizeSubarraySum/rotatArr.c "link") | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/209_MinimumSizeSubarraySum/minSubSum.c "link") | Medium |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/225_ImplementStackusingQueues/stack.cpp "link") | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Stack/232_ImplementQueueusingStacks/queue.cpp "link") | Easy |
