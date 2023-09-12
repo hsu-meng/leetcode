@@ -17,3 +17,5 @@ public:
         reverse(nums.begin() + pivot + 1, nums.end()); // Then, reverse the nums[pivot + 1, n)
     }
 };
+
+//Time: O(n)
