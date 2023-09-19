@@ -66,6 +66,7 @@ Solutions of LeetCode Problems
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/ "link") | [C++](https://github.com/hsu-meng/leetcode/tree/main/String/551_StudentAttendanceRecordI/stdAttendrecd.cpp "link") | Easy |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/647_PalindromicSubstrings/palindromic.cpp "link") | Medium |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/709_ToLowerCase/lowerCase.py "link") | Easy |
+| 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/824_GoatLatin/goat-latin.cpp "link") | Easy |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1021_RemoveOutermostParentheses/remvOuterParen.py "link") | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1108_DefanginganIPAddress/ip_.py "link") | Easy |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/String/1221_SplitaStringinBalancedStrings/balancedStr.py "link") | Easy |
