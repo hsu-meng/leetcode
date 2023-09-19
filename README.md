@@ -98,6 +98,7 @@ Solutions of LeetCode Problems
 ## Two Pointers
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/28_FindtheIndexoftheFirstOccurrenceinaString/strStr.cpp "link") | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Two%20Pointers/844_BackspaceStringCompare/backspace.cpp "link") | Easy |
 
 ## Stack
