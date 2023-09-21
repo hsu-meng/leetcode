@@ -83,6 +83,7 @@ Solutions of LeetCode Problems
 |:--:|:--|:--:|:--:|
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Math/69_Sqrt(x)/sqrt_.c "link") | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Math/367_ValidPerfectSquare/perfSq.c "link") | Easy |
+| 415 | [Add Strings](https://leetcode.com/problems/add-strings/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Math/415_AddStrings/addStr.cpp "link") | Easy |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1281_SubtracttheProductandSumofDigitsofanInteger/multi-add_.py "link") | Easy |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1323_Maximum69Number/max69.py "link") | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/ "link") | [Python](https://github.com/hsu-meng/leetcode/blob/main/Math/1342_NumberofStepstoReduceaNumbertoZero/reduce2zero.py "link") | Easy |
