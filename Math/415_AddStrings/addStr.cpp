@@ -15,7 +15,6 @@ public:
             int value1 = d1 < n1 ? num1[d1] - '0' : 0;
             int value2 = d2 < n2 ? num2[d2] - '0' : 0;
             int value = (value1 + value2 + carry) % 10;
-
             carry = (value1 + value2 + carry) / 10;
             d1++;
             d2++;
