@@ -62,6 +62,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "link") | [C++](https://github.com/hsu-meng/leetcode/tree/main/String/5_LongestPalindromicSubstring/longestPalin.cpp "link") | Medium |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/ "link") | [C](https://github.com/hsu-meng/leetcode/tree/main/String/14_LongestCommonPrefix/longPrefix.c "link"), [C++](https://github.com/hsu-meng/leetcode/tree/main/String/14_LongestCommonPrefix/longPrefix.cpp "link") | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/ "link") | [C](https://github.com/hsu-meng/leetcode/tree/main/String/344_ReverseString/reverseStr.c "link"), [C++](https://github.com/hsu-meng/leetcode/tree/main/String/344_ReverseString/reverseStr.cpp "link") | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/ "link") | [C++](https://github.com/hsu-meng/leetcode/tree/main/String/551_StudentAttendanceRecordI/stdAttendrecd.cpp "link") | Easy |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/String/647_PalindromicSubstrings/palindromic.cpp "link") | Medium |
