@@ -115,6 +115,7 @@ Solutions of LeetCode Problems
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/21_MergeTwoSortedLists/mergLists.c "link"), [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/21_MergeTwoSortedLists/mergLists.cpp "link") | Easy |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/24_SwapNodesinPairs/swapPairs.c "link") | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/82_RemoveDuplicatesfromSortedListII/removDupLL.cpp "link") | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/83_RemoveDuplicatesfromSortedList/removeDup.cpp "link") | Easy |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Linked%20List/92_ReverseLinkedListII/reversLinkedlistII.c "link") | Medium |
