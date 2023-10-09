@@ -82,6 +82,7 @@ Solutions of LeetCode Problems
 ## Math
 | # | Question | Language | Difficulty |
 |:--:|:--|:--:|:--:|
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Math/50_Pow(x,n)/pow_.c "link") | Medium |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Math/69_Sqrt(x)/sqrt_.c "link") | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Math/367_ValidPerfectSquare/perfSq.c "link") | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Math/415_AddStrings/addStr.cpp "link") | Easy |
