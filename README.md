@@ -18,6 +18,7 @@ Solutions of LeetCode Problems
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/ "link") | [C](https://github.com/hsu-meng/leetcode/blob/main/Array/53_MaximumSubarray/maxSub.c "link") | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/54_SpiralMatrix/spiralMatrix.cpp "link") | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/56_MergeIntervals/mergeInval.cpp "link") | Medium |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/57_InsertInterval/insertInval.cpp "link") | Medium |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/59_SpiralMatrixII/spiralMatrixII.cpp "link") | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/75_SortColors/sortColor.cpp "link") | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ "link") | [C++](https://github.com/hsu-meng/leetcode/blob/main/Array/80_RemoveDuplicatesfromSortedArrayII/remvDupArrII.cpp "link") | Medium |
